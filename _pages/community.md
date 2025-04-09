@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Style Guide
-permalink: /styleguide/
+permalink: /community/
 image: '/images/50.jpg'
 ---
 
