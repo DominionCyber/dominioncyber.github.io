@@ -13,7 +13,7 @@ menu-settings:
       url: '/'
     - title: 'About'
       url: '/about/'
-    - title: 'Contact Me'
+    - title: 'Contact'
       url: '/contact/'
 
 
