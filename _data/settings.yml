@@ -13,8 +13,6 @@ menu-settings:
       url: '/'
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Community'
-      url: '/community/'
 
 
 #-------------------------------
